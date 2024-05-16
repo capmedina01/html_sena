@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 10%;
+    background-color: #04307B;
+    display: flex;
+    
+}
+.section_img{
+    height: 10%;
+}
